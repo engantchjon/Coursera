@@ -1,0 +1,7 @@
+clean
+compile
+test
+runMain scalashop.VerticalBoxBlurRunner
+runMain scalashop.HorizontalBoxBlurRunner
+submit engantchjon@hotmail.com OcP37ydWbiONPPeh
+submit engantchjon@hotmail.com Ho21ZszCNnOSJmMr
